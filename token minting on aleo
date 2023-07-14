@@ -1,0 +1,4 @@
+Function name: mint
+Inputs: <"your wallet address">
+1000u64
+fee: 1000000
