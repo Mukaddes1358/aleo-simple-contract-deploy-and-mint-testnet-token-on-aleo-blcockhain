@@ -1,0 +1,1 @@
+# aleo-simple-contract-deploy-and-mint-testnet-token-on-aleo-blcockhain
